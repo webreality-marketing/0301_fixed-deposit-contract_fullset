@@ -909,7 +909,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,543.4,158.2);
 	// header
 	this.instance_2 = new lib.mc_level1_final();
 	this.instance_2.parent = this;
-	this.instance_2.setTransform(74.75,110.7,0.46,0.4597,0,0,0,86.3,77.1);
+	this.instance_2.setTransform(66.75,110.7,0.46,0.4597,0,0,0,86.3,77.1);
 	this.instance_2._off = true;
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(44).to({_off:false},0).wait(255));
@@ -917,7 +917,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,543.4,158.2);
 	// subheader
 	this.instance_3 = new lib.mc_level2();
 	this.instance_3.parent = this;
-	this.instance_3.setTransform(77.4,172.5,0.6208,0.6207,0,0,0,68.2,42.9);
+	this.instance_3.setTransform(69.4,172.5,0.6208,0.6207,0,0,0,68.2,42.9);
 	this.instance_3.alpha = 0;
 	this.instance_3._off = true;
 
@@ -926,7 +926,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,543.4,158.2);
 	// T_C
 	this.instance_4 = new lib.mc_level3();
 	this.instance_4.parent = this;
-	this.instance_4.setTransform(73.5,219.9,0.5606,0.5629,0,0,0,68.5,42.9);
+	this.instance_4.setTransform(67.8,221.25,0.5943,0.5944,0,0,0,68.5,43);
 	this.instance_4.alpha = 0;
 	this.instance_4._off = true;
 
